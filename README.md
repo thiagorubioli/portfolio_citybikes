@@ -13,6 +13,8 @@ O projeto completo poderá ser consultado em meu site: https://thiagorubioli.com
 ### Contexto
 O contexto do estudo de caso é fictício, criado pelos responsáveis pelo curso (Google e Coursera), mas os dados são reais, públicos e sob propriedade da cidade de Chicago (EUA). Mais informações sobre os dados podem ser consultadas no link: https://divvybikes.com/data-license-agreement
 
+Os dados estão em formato .csv e são atualizados todo mês, desde 2013. Porém, optei por trabalhar com os dados entre janeiro de 2020 até julho de 2025, resultando em uma tabela fonte consolidada com 29.289.765 linhas no total.
+
 Sobre o estudo de caso, segue a contextualização:
 
 "O diretor de marketing de uma empresa de aluguel/compartilhamento de bicicletas acredita que o sucesso futuro da empresa depende da maximização do número de assinaturas anuais. Portanto, sua equipe quer entender como ciclistas casuais e membros anuais usam as bicicletas de forma diferente. A partir desses insights, sua equipe desenvolverá uma nova estratégia de marketing para converter ciclistas casuais em membros anuais. Mas, primeiro, os executivos precisam aprovar suas recomendações, que devem ser respaldadas por insights e visualizações de dados profissionais."
